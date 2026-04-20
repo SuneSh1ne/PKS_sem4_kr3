@@ -1,9 +1,3 @@
-H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\PKS_sem4_kr3.exe
-H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\PKS_sem4_kr3.deps.json
-H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\PKS_sem4_kr3.runtimeconfig.json
-H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\PKS_sem4_kr3.dll
-H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\PKS_sem4_kr3.pdb
-H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
 H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\obj\Debug\net10.0-windows\PKS_sem4_kr3.csproj.AssemblyReference.cache
 H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\obj\Debug\net10.0-windows\MainWindow.baml
 H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\obj\Debug\net10.0-windows\MainWindow.g.cs
@@ -14,6 +8,16 @@ H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\obj\Debug\net10.0-windows\PKS_sem4_kr3.
 H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\obj\Debug\net10.0-windows\PKS_sem4_kr3.AssemblyInfoInputs.cache
 H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\obj\Debug\net10.0-windows\PKS_sem4_kr3.AssemblyInfo.cs
 H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\obj\Debug\net10.0-windows\PKS_sem4_kr3.csproj.CoreCompileInputs.cache
+H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\obj\Debug\net10.0-windows\PKS_sem4_kr3.sourcelink.json
+H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\PKS_sem4_kr3.exe
+H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\PKS_sem4_kr3.deps.json
+H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\PKS_sem4_kr3.runtimeconfig.json
+H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\PKS_sem4_kr3.dll
+H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\PKS_sem4_kr3.pdb
+H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\Newtonsoft.Json.dll
+H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\OxyPlot.dll
+H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\OxyPlot.Wpf.dll
+H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\bin\Debug\net10.0-windows\OxyPlot.Wpf.Shared.dll
 H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\obj\Debug\net10.0-windows\PKS_sem4.B5AD5A46.Up2Date
 H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\obj\Debug\net10.0-windows\PKS_sem4_kr3.dll
 H:\Projects_VS\PKS_sem4_kr3\PKS_sem4_kr3\obj\Debug\net10.0-windows\refint\PKS_sem4_kr3.dll

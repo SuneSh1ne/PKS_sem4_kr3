@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PKS_sem4_kr3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+894beed3105f711a0e76c8cec6642bdb388cced5")]
 [assembly: System.Reflection.AssemblyProductAttribute("PKS_sem4_kr3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PKS_sem4_kr3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

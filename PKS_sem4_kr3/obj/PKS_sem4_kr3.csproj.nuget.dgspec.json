@@ -47,6 +47,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.4, )"
+            },
+            "OxyPlot.Wpf": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
